@@ -1,3 +1,4 @@
 this is for testing git modified, staged files
 adding additional content to the textfile1 to see the changes after already performing a commit once.
 third set of changes
+change made in the remote repository directly
